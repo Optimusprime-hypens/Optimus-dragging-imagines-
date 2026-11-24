@@ -10,7 +10,7 @@ Demo from PROG 102 Code
 
 /* HTML styles */
  body {
- background: #ffffff;
+ background: #F18AFF;
  }
 
 .content {  
@@ -28,7 +28,7 @@ Demo from PROG 102 Code
       align-items: center;
       justify-content: center;
       background: #CCC;
-      color: #999;
+      color: #870;
       font-size: large;
       font-weight: bold;
       margin-bottom: 10px;
