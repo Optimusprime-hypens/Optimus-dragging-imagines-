@@ -21,14 +21,14 @@ Demo from PROG 102 Code
  /* Image Application Dropzone */
 
     #dropzone {
-      width: 320px;
-      height: 240px;
+      width: 400px;
+      height: 500px;
       border: 3px solid #000;
       display: flex;
       align-items: center;
       justify-content: center;
       background: #CCC;
-      color: #870;
+      color: #888;
       font-size: large;
       font-weight: bold;
       margin-bottom: 10px;
@@ -36,6 +36,6 @@ Demo from PROG 102 Code
     }
 
     #dropzone.hover {
-      border-color: #2b8efc;
+      border-color: #B72818;
       color: #2b8efc;
     }
